@@ -1,0 +1,3 @@
+Unterrohrdurchmesser_Trek: 35mm
+Abstand Bohrlöcher: 63mm
+Gewinde: M5
